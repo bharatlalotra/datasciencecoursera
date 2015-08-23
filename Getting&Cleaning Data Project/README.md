@@ -15,3 +15,7 @@ Details on how the script works:
 - Following this, a subset data frame called "subset_data" is created using indices extracted in the above step.
 - Next, descriptive activity names are added to the dataframe.
 - Finally, an independent tidy data set called ""tidydata.txt" with the average of each variable for each activity and each subject is created.
+
+Results
+
+- tidydata.txt -- contains the final tidied output data.
