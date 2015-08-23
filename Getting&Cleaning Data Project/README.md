@@ -2,9 +2,9 @@
 Getting and Cleaning Data Project R Code
 ==================================================================
 
-Author: bharatlalotra
-No Copyrights, Public Domain, August 2015
-Runnable source script: run_analysis.R
+# Author: bharatlalotra
+# No Copyrights, Public Domain, August 2015
+# Runnable source script: run_analysis.R
 
 Details on how the script works:
 - As a first step, the training data set is read. Thereafter, the test data is read.
